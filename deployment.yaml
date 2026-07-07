@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: sample-python-app
-        image: asia-south1-docker.pkg.dev/project-1-501612/argocd-repo/sample-python-app:latest
+        image: asia-south1-docker.pkg.dev/project-1-501612/argocd-repo/sample-python-app:63509da
         ports:
         - containerPort: 8080
